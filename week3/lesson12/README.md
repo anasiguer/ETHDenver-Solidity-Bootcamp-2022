@@ -1,0 +1,27 @@
+# TOPICS
+
+- Optimisation Process
+- Storage
+- Refunds
+- Data Types and Packing
+- Strings
+- Packing variables
+- Inheritance
+- Memory versus Storage
+- Variables
+- Mapping vs. Array
+- Functions
+- Memory, calldata and function parameters
+- Function order
+- Compress Input Data
+- View Functions
+- Loops
+- Miscellaneous Optimisations
+- Events
+- Keep Data in Calldata where possible
+- Solidity Modifiers Increase Code Size you can make them functions instead
+- Custom Errors
+- Tools and Measurement
+- Sol2UML Visualisation Tool
+- Gas Optimisation Audit from Open Zeppelin
+- Optimisation challenges
